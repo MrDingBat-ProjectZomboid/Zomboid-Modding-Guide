@@ -1,4 +1,6 @@
 ## Java classes exposed to Lua (v40.43)
+* [Goto ToC](TOC.md)  
+
 ```
 BufferedReader.class
 java.io.BufferedWriter.class
@@ -420,3 +422,6 @@ Field.class
 Method.class
 Coroutine.class
 ```
+
+----------------------------------------
+* [Goto ToC](TOC.md)  

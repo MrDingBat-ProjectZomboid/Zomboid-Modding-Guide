@@ -1,0 +1,41 @@
+# Project Zomboid Modding Guide
+**_This document is very much a Work-In-Progress._**
+* [Goto README](README.md)  
+
+## Table of Contents
+* [Introduction](README.md)
+  * [About this guide](README.md#about-this-guide)  
+  * [Overview](README.md#overview)  
+  * [Required Tools](README.md#required-tools-software)
+* [Mod Structure](Mod_Structure.md)
+* [PZ Scripts](PZ_Scripts.md)  
+  * [The module block](PZ_Scripts.md#the-module-block)  
+  * [The imports block](PZ_Scripts.md#the-imports-block)  
+  * [The item block](PZ_Scripts.md#the-item-block)  
+  * [The recipe block](PZ_Scripts.md#the-recipe-block)  
+  * [The evolvedrecipe block](PZ_Scripts.md#the-evolvedrecipe-block)  
+  * [The fixing block](PZ_Scripts.md#the-fixing-block)  
+  * [The sound block](PZ_Scripts.md#the-sound-block)  
+  * [The vehicle block](PZ_Scripts.md#the-vehicle-block)  
+* [Lua Code](Lua_Code.md)  
+  * [New To Programming](Lua_Code.md#new-to-programming)  
+  * [New To Lua](Lua_Code.md#new-to-lua)  
+  * [Zomboid's Lua Component](Lua_Code.md#zomboids-lua-component)  
+  * [The Vanilla Lua](Lua_Code.md#the-vanilla-lua)  
+  * [Zomboid's API](Lua_Code.md#zomboid-api)  
+  * [Decompiling The Java](Lua_Code.md#decompiling-the-java)  
+  * [Overwriting Vanilla Code](Lua_Code.md#overwriting-vanilla-code)  
+  * [Overwriting Another Mod's Code](Lua_Code.md#overwriting-another-mods-code-3rd-party-patching)  
+  * [Performance Tips](Lua_Code.md#performance-tips)  
+    * [Global vs Local]()
+    * [Troublesome Event Callbacks]()
+    * [Misc Performance Tips]()
+  * [Code Quality Tips](Lua_Code.md#code-quality-tips)  
+  * [Code Snippets](Lua_Code.md#code-snippets)  
+* [Translations](Translations.md)  
+* [Mapping](Mapping.md)  
+* [Modelling](Modelling.md)  
+* [Contributing](CONTRIBUTING.md)  
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
