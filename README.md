@@ -68,8 +68,10 @@ If your doing custom icons, textures, maps or 3d models you'll need one of these
 ----------------------------------------
 ### Topics
 * [Mod Structure](Mod_Structure.md)
-* [PZ Scripts](PZ_Scripts.md)  
+* [PZ Scripts](PZ_Scripts.md)
 * [Lua Coding](Lua_Code.md)
+* [Lua Events](Lua_Events.md)
+* [Lua Methods](Lua_Methods.md)  
 * [Java Classes](JavaClasses.md)
 * [Translations](Translations.md)  
 * [Mapping](Mapping.md)  

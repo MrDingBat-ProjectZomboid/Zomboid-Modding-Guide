@@ -4,7 +4,20 @@
 
 * [Goto ToC](TOC.md)  
 ## Contents
-
+* [New To Programming](#new-to-programming)  
+* [New To Lua](#new-to-lua)  
+* [Zomboid's Lua Component](#zomboids-lua-component)  
+* [The Vanilla Lua](#the-vanilla-lua)  
+* [Zomboid's API](#zomboid-api)  
+* [Decompiling The Java](#decompiling-the-java)  
+* [Overwriting Vanilla Code](#overwriting-vanilla-code)  
+* [Overwriting Another Mod's Code](#overwriting-another-mods-code-3rd-party-patching)  
+* [Performance Tips](#performance-tips)  
+* [Global vs Local]()
+* [Troublesome Event Callbacks]()
+* [Misc Performance Tips]()
+* [Code Quality Tips](#code-quality-tips)  
+* [Code Snippets](#code-snippets)  
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 ## The Code

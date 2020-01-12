@@ -32,6 +32,8 @@
     * [Misc Performance Tips]()
   * [Code Quality Tips](Lua_Code.md#code-quality-tips)  
   * [Code Snippets](Lua_Code.md#code-snippets)  
+* [Lua Events](Lua_Events.md)  
+* [Lua Methods](Lua_Methods.md)  
 * [Translations](Translations.md)  
 * [Mapping](Mapping.md)  
 * [Modelling](Modelling.md)  
